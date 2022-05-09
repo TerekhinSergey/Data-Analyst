@@ -1,3 +1,8 @@
+#ВОПРОСЫ К РЕВЬЮЕРУ. ПОЖАЛУЙСТА, ПОДСКАЖИ, ЕСЛИ ЭТО ВОЗМОЖНО.
+1)КАК СДЕЛАТЬ ТАК, ЧТОБЫ ОТОБРАЖАЛИСЬ ГРАФИКИ В PLOTLY? ДОУСТАНОВКА И НАСТРОЙКА БИБЛИОТЕК НЕ ПОМОГЛИ.
+2)ЕСТЬ ЛИ СМЫСЛ ВЫКЛАДЫВАТЬ ПРОЕКТ ПО SQL И В КАКОМ ФОРМАТЕ ЛУЧШЕ ЭТО СДЕЛАТЬ - ПРОСТО В README НОРМ, КАК СДЕЛАЛ Я?
+ЗАРАНЕЕ ОЧЕНЬ ПРИЗНАТЕЛЕН ЗА ОТВЕТЫ
+
 - 👋 Hi, I’m @TerekhinSergey
 - 👀 I’m interested in Data Analyst, programming, swimming, snowboarding
 - 🌱 I’m currently learning Python, SQL
