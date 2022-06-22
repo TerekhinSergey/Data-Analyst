@@ -1,5 +1,7 @@
 ﻿# Сегментирование клиентов банка, склонных к оттоку
 
+**Визуальные материалы к проекту:**
+ 
 [Презентация](https://drive.google.com/file/d/1AmYJgXn5s3X2bTRyOlIHj3ciMnk2c_ov/view?usp=sharing)  
 [Дашборд](https://public.tableau.com/app/profile/sergey7413/viz/Diplom_dashbord/sheet3)
 
