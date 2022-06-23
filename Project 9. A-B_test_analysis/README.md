@@ -1,6 +1,6 @@
 ﻿# Анализ пользовательского поведения в мобильном приложении
 
-[Ссылка на проект в NBViewer для отображения визуализации Plotly](https://nbviewer.org/github/TerekhinSergey/Data_Analyst/blob/main/Project%209.%20A-B_test_analysis/A-B_test_analysis.ipynb)
+[Ссылка на проект в NBViewer для отображения визуализации Plotly](https://nbviewer.org/github/TerekhinSergey/Data_Analyst/blob/3287baa897a2d186a6a22d2c35757528cbc22795/Project%209.%20A-B_test_analysis/A-B_test_analysis.ipynb)
 
 **Описание проекта:** 
 
